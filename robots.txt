@@ -1,0 +1,11 @@
+# robots.txt for https://hapke.com
+
+user-agent: *
+Allow: /$
+Allow: /img/team/hapke_307.png
+Allow: /favicon.ico
+Disallow: /
+Disallow: /OLD
+Disallow: /start
+
+
